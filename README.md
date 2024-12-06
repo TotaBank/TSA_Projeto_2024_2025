@@ -2,11 +2,11 @@
 Repositório paara o projeto da disciplina de Tecnologia de Automação e Scripting (TSA)
 
 ## Ideia geral do projeto
-Escrever a ideia geral do projeto...
+* Monitorizador de recursos inteligente
 
 ### Autores
-Nome do aluno 1
-Nome do aluno 2
+* Tomás Costa
+* Vasco Santos
 
 ## Descrição da funcionalidade
-Por descrever...
+* O script verifica de 10 em 10 segundos a utilização média dos recursos e avisa o administrador do problema!
