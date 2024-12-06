@@ -1,5 +1,5 @@
 # TSA_Projeto_2024_2025
-Repositório paara o projeto da disciplina de Tecnologia de Automação e Scripting (TSA)
+Repositório para o projeto da disciplina de Tecnologia de Automação e Scripting (TSA)
 
 ## Ideia geral do projeto
 * Monitorizador de recursos inteligente
