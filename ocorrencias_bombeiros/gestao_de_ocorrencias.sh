@@ -28,7 +28,7 @@ registar_ocorrencia() {
 }
 
 # Função para listar todas as ocorrências
-listar_ocorrencias() {
+mostrar_ocorrencia() {
   echo "=== Ocorrências Registadas ==="
   if [[ ! -s $ficheiro_ocorrencias ]]; then
     echo "Nenhuma ocorrência encontrada."
@@ -104,7 +104,7 @@ while true; do
   read opcao
   case $opcao in
     1) registar_ocorrencia ;;
-    2) listar_ocorrencias ;;
+    2) mostrar_ocorrencia ;;
     3) resolver_ocorrencia ;;
     4) apagar_ocorrencia ;;
     0) break ;;
