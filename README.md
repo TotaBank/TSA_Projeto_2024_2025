@@ -40,7 +40,7 @@ Um sistema para gerir ocorrências de bombeiros, onde é possível registar, mos
 ```bash
 Em breve...
 ```
-## 📖 Gestão de Ocorrências de Bombeiros
+### 2. **Gestão de Ocorrências de Bombeiros**
 
 - Para interagir com o sistema de gestão de ocorrências, basta executar o script responsável pelo controle das ocorrências.
 - O script oferece um menu interativo que permite ao utilizador registrar, listar, resolver ou apagar ocorrências.
