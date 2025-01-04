@@ -1,0 +1,15 @@
+2025-01-04 16:29:55 - Uso abusivo de CPU, tendo tido o valor: 3.3
+2025-01-04 16:31:16 - Uso abusivo de CPU, tendo tido o valor: 3.3
+2025-01-04 16:36:57 - Uso abusivo de CPU, tendo tido o valor: 0
+2025-01-04 16:37:11 - Uso abusivo de CPU, tendo tido o valor: 9.7
+2025-01-04 16:38:43 - Uso abusivo de CPU, tendo tido o valor: 13.8
+2025-01-04 16:39:43 - Uso abusivo de CPU, tendo tido o valor: 15.6
+2025-01-04 16:40:14 - Uso abusivo de CPU, tendo tido o valor: 3.2
+2025-01-04 16:43:27 - Uso abusivo de CPU, tendo tido o valor: 3.3
+2025-01-04 16:43:48 - Uso abusivo de CPU, tendo tido o valor: 6.7
+2025-01-04 16:45:01 - Uso abusivo de CPU, tendo tido o valor: 6.5
+2025-01-04 16:47:46 - Uso abusivo de CPU, tendo tido o valor: 16.1 %
+2025-01-04 16:48:11 - Uso abusivo de CPU, tendo tido o valor: 10 %
+2025-01-04 16:48:12 - Uso abusivo de RAM, tendo tido o valor: 21.6755 %
+2025-01-04 16:48:39 - Uso abusivo de CPU, tendo tido o valor: 0%
+2025-01-04 16:48:40 - Uso abusivo de RAM, tendo tido o valor: 21.7071%
