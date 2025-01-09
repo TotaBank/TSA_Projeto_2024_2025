@@ -24,6 +24,15 @@ Um sistema para gerir ocorrências de bombeiros, onde é possível registar, mos
   - Marcar ocorrências como resolvidas.
   - Apagar ocorrências específicas ou todas as ocorrências com confirmação.
 
+### 3. **Jogo Trivia em Inglês**
+Um jogo de perguntas e respostas baseado numa base de dados de perguntas e respostas diversas. O objetivo é responder corretamente a perguntas sobre diferentes categorias, como conhecimento geral, matemática, videojogos, desporto, entre outros.
+
+- **Objetivo**:Responde corretamente às perguntas sobre diferentes categorias para ganhar.
+- **Funcionalidades**:
+  - Apresentar perguntas aleatórias: O jogo apresenta perguntas de categorias variadas.
+  - Opcional de dificuldade: As perguntas podem ser fáceis, médias ou difíceis.
+  - Finalizar o jogo: O jogo termina quando o jogador responder.
+  
 ## 🧑‍💻 Autores
 
 - **Tomás Costa**
@@ -47,6 +56,14 @@ Em breve...
 
 ```bash
 ./gestao_ocorrencias_bombeiros.sh
+```
+### 3. **Jogo Trivia em Inglês**
+
+- Para interagir com o jogo trivia, basta executar o script.
+- O script oferece um menu interativo que permite ao utilizador escolher a categoria, dificuldade e tipo de pergunta.
+
+```bash
+./jogar.sh
 ```
 
 ![Instituto Politécnico de Santarém](https://www.ipsantarem.pt/wp-content/uploads/2022/02/PolitSantarem-Escola-GestaoTecnologia.png)
